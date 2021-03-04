@@ -1,0 +1,12 @@
+ADMIN ACCOUNT
+username - ambrose / admin
+password - 12345  /  pass
+
+OFFICER ACCOUNT
+username:AMBROSE
+password: 12345
+
+
+Note - To change the username you need to edit it in MYSQL using phpmyadmin and to change the password just login into admin account and change your password from profile.
+
+**Last Updated - 4th February**
